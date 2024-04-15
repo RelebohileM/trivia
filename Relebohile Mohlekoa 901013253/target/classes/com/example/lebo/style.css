@@ -1,0 +1,37 @@
+.hb{
+
+
+    -fx-background-color:white;
+    -fx-font-size:30px;
+    -fx-font-weight:bold;
+    -fx-text-fill:white;
+    -fx-width:200px;
+
+}
+.hb1{
+       -fx-padding:100px 100px;
+
+}
+.pane{
+    -fx-background-color:black;
+}
+.image{
+    -fx-padding: 20px 0px;
+}
+.bton{
+    -fx-background-color:blue;
+    -fx-text-fill:white;
+    -fx-width:100px;
+    -fx-height:100px;
+    -fx-padding:20px 40px;
+}
+.label{
+    -fx-text-fill:gold;
+    -fx-font-size:30px;
+}
+.results{
+    -fx-background-color:black;
+}
+.labelresult{
+    -fx-padding:200px 430px;
+}
